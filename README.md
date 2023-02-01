@@ -1,6 +1,6 @@
 Pepega Inc. - a Prague Inc. clone in Java
 
-Project is made in roughly 4 days during my 3rd semestre, enjoy :)
+Project is made in roughly 4 days during my 2nd semestre, enjoy :)
 
 Features:
 
