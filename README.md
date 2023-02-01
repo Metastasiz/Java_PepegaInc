@@ -1,4 +1,5 @@
 Pepega Inc. - a Prague Inc. clone in Java
+Project is made in roughly 4 days during my 3rd semestre, enjoy :)
 
 Features:
 
@@ -9,8 +10,6 @@ Procedual generated maps
 Upgrades and Highscores
 
 ![ezgif com-crop-2](https://user-images.githubusercontent.com/75691419/215920456-91e2d1d9-1fd0-4de4-9213-f33312f73959.gif)
-
-Project is made in roughly 4 days during my 3rd semestre, enjoy :)
 
 ////////////////////////////////
 
