@@ -1,4 +1,4 @@
-Pepega Inc. - a Prague Inc. clone
+Pepega Inc. - a Prague Inc. clone in Java
 
 Features:
 
